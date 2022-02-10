@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm Luis Carrera👋 </h1>
+<h3 align="center">🚀 Full Stack Developer in Progress | PERN Stack | Self Taught 🚀</h3>
+<div>
+<img width = "45%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-<!--
-**luiscarreramv/luiscarreramv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🤝 &nbsp; I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+  - 🎓 &nbsp; Studying Web Development at Platzi.
+  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 📈 &nbsp; Never Stop Learning.
+</div> 
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png"  width="50" ><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/nextjs.png" width="50">
+  <p>
+</div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [luiscarreramv](https://github.com/luiscarreramv)
