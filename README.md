@@ -19,7 +19,3 @@
   <p>
 </div> 
 
-<div align="center">
-⭐️ From [luiscarreramv](https://github.com/luiscarreramv)
-</div> 
-
