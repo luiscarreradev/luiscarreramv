@@ -5,7 +5,7 @@
 <div align="center"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  🤝 &nbsp; I'm currently looking studying Bootstrap, Node.js, Next.js and PostgreSQL.<br>
+  🤝 &nbsp; I'm currently studying MongoDb, Node.js, Next.js and PostgreSQL.<br>
   🎓 &nbsp; Studying Web Development at Platzi.<br>
   💼 &nbsp; I’m currently working on Full Stack Development projects.<br>
   📈 &nbsp; Never Stop Learning.
